@@ -3,3 +3,4 @@
 fin project rm -f
 fin project start
 fin exec npm ci
+fin exec npm run build-storybook

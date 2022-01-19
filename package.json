@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "storybook": "start-storybook -p 3000",
+    "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
   "author": "",
@@ -17,6 +17,7 @@
     "@storybook/builder-webpack5": "^6.4.13",
     "@storybook/html": "^6.4.13",
     "@storybook/manager-webpack5": "^6.4.13",
+    "@whitespace/storybook-addon-html": "^5.0.0",
     "babel-loader": "^8.2.3"
   },
   "dependencies": {}
