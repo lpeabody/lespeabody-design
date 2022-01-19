@@ -1,0 +1,23 @@
+{
+  "name": "lespeabody-design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "storybook": "start-storybook -p 3000",
+    "build-storybook": "build-storybook"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.16.10",
+    "@storybook/addon-actions": "^6.4.13",
+    "@storybook/addon-essentials": "^6.4.13",
+    "@storybook/addon-links": "^6.4.13",
+    "@storybook/builder-webpack5": "^6.4.13",
+    "@storybook/html": "^6.4.13",
+    "@storybook/manager-webpack5": "^6.4.13",
+    "babel-loader": "^8.2.3"
+  },
+  "dependencies": {}
+}
